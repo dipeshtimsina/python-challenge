@@ -1,0 +1,7 @@
+ Financial Analysis 
+..................................
+Total Months: 86 
+ Total: $38382578.0 
+ Average Change for the Period: $-2315.1176470588234 
+ The greatest increase in profits: month_year[great_loca] $1926159 
+ The greatest loss in profits: month_year[loss_loca] $-2196167 
